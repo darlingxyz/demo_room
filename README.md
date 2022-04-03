@@ -1,4 +1,4 @@
-# 【Kotlin】Android-Room库持久性保存数据—初学者向
+# 【Kotlin】Android-Room库持久性保存数据简单教程——初学者向
 
 #### Room使用的简易案例
 简单的代码案例，但包含了完整的使用流程
